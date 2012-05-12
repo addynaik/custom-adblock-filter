@@ -1,6 +1,6 @@
 [Adblock Plus 0.7.1]
-!   Rickroll blacklist, http://rickrolldb.com
-!   generated on 05/09/12 07:00:10
-! 1 entries
+!   My Customer  blacklist
+! 2 entries
 *macmillandictionary.js
+facebook.com##.ego_section
 !
